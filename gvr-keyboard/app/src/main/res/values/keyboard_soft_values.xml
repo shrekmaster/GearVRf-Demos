@@ -87,7 +87,7 @@
 
     <!-- Key -->
     <array name="key_13">
-        <item name="character">r</item>
+        <item name="character">d</item>
         <item name="special_character">&#8260;</item>
         <item name="style">@array/style_default</item>
     </array>
